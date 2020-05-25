@@ -1,2 +1,1 @@
-# rgb-hex-conversions
-Explanation of RGB-HEX conversions in C
+# Explanation of RGB-HEX conversions in C
